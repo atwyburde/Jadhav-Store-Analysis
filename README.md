@@ -1,5 +1,5 @@
 # Jadhav-Store-Analysis
-Jadhav Store wants to analyse the Historical data of Orders -
+Jadhav Store wants to analyse the historical data of orders -
 
 1. Two Datasets are available Orders and Details Table
 2. Create some meaningful Insights
